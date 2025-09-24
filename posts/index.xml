@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on Elise Colin is WonderWoman</title>
-        <link>http://localhost:1313/post/</link>
-        <description>Recent content in Posts on Elise Colin is WonderWoman</description>
+        <title>Posts on Elise Colin</title>
+        <link>http://localhost:1313/posts/</link>
+        <description>Recent content in Posts on Elise Colin</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Wed, 24 Sep 2025 10:22:50 +0200</lastBuildDate><atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>fr</language>
+        <lastBuildDate>Wed, 24 Sep 2025 10:22:50 +0200</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Feuille</title>
-        <link>http://localhost:1313/post/feuille/</link>
+        <link>http://localhost:1313/posts/feuille/</link>
         <pubDate>Wed, 24 Sep 2025 10:22:50 +0200</pubDate>
         
-        <guid>http://localhost:1313/post/feuille/</guid>
+        <guid>http://localhost:1313/posts/feuille/</guid>
         <description>&lt;p&gt;Et si on parlait de feuille ?&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>Mon Premier Post</title>
-        <link>http://localhost:1313/post/mon-premier-post/</link>
+        <link>http://localhost:1313/posts/mon-premier-post/</link>
         <pubDate>Wed, 24 Sep 2025 10:22:50 +0200</pubDate>
         
-        <guid>http://localhost:1313/post/mon-premier-post/</guid>
+        <guid>http://localhost:1313/posts/mon-premier-post/</guid>
         <description>&lt;p&gt;Coucou je découvre Hugo &amp;hellip;
 et c&amp;rsquo;est pas facile&lt;/p&gt;
 </description>
