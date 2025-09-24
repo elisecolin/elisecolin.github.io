@@ -15,16 +15,6 @@
         <description>&lt;p&gt;Et si on parlait de feuille ?&lt;/p&gt;
 </description>
         </item>
-        <item>
-        <title>Mon Premier Post</title>
-        <link>https://elisecolin.github.io/posts/mon-premier-post/</link>
-        <pubDate>Wed, 24 Sep 2025 10:22:50 +0200</pubDate>
-        
-        <guid>https://elisecolin.github.io/posts/mon-premier-post/</guid>
-        <description>&lt;p&gt;Coucou je découvre Hugo &amp;hellip;
-et c&amp;rsquo;est pas facile&lt;/p&gt;
-</description>
-        </item>
         
     </channel>
 </rss>
