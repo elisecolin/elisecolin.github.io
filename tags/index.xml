@@ -5,6 +5,31 @@
         <link>https://elisecolin.github.io/tags/</link>
         <description>Recent content in Tags on Elise Colin </description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>fr</language><atom:link href="https://elisecolin.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <language>fr</language>
+        <lastBuildDate>Mon, 22 Sep 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://elisecolin.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Feuille</title>
+        <link>https://elisecolin.github.io/tags/feuille/</link>
+        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://elisecolin.github.io/tags/feuille/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Sève</title>
+        <link>https://elisecolin.github.io/tags/s%C3%A8ve/</link>
+        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://elisecolin.github.io/tags/s%C3%A8ve/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Speckle Dynamique</title>
+        <link>https://elisecolin.github.io/tags/speckle-dynamique/</link>
+        <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
+        
+        <guid>https://elisecolin.github.io/tags/speckle-dynamique/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>
