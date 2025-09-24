@@ -1,0 +1,16 @@
+---
+title: "Accueil"
+---
+
+# Bienvenue 👋
+
+Je suis **Elise Colin**, passionnée par la science, l'art et la littérature   
+
+Ce site est mon espace personnel où je partage :  
+- ✍️ Des créations personnelles : poèmes, peintures, musique
+- 🔬 Des explorations scientifiques   
+- 🌱 Des notes plus personnelles  
+
+👉 Tu peux commencer par découvrir :  
+- [Mes articles](/posts/)  
+- [À propos de moi](/about/)
