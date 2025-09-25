@@ -12,7 +12,8 @@
         <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
         
         <guid>https://elisecolin.github.io/posts/feuille/</guid>
-        <description>&lt;img src="https://elisecolin.github.io/images/feuille.png" alt="Featured image of post Speckle dynamique pour la feuille en poésie" /&gt;&lt;p&gt;Bonjour à tous, merci, de venir m’écouter,&lt;br&gt;
+        <description>&lt;img src="https://elisecolin.github.io/images/feuille.png" alt="Featured image of post Speckle dynamique pour la feuille en poésie" /&gt;&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;Bonjour à tous, merci, de venir m’écouter,&lt;br&gt;
 J’espère éveiller l’âme, et la curiosité&lt;br&gt;
 Je vous livre aujourd&amp;rsquo;hui un étrange exposé&lt;br&gt;
 Dont la préparation m&amp;rsquo;a beaucoup amusée.&lt;br&gt;
@@ -273,10 +274,10 @@ Qui parle en millimètre, et en temps qui s’étale.&lt;/p&gt;
 &lt;p&gt;J’ai modifié l&amp;rsquo;échelle, et non pas l’organisme,&lt;br&gt;
 Ce n’était point l’objet, le défaut, mais le prisme.&lt;br&gt;
 Le speckle était là, vibrant, mais trop discret,&lt;br&gt;
-Pour un œil trop pressé ou un code imparfait.&lt;br&gt;
+Pour un oeil trop pressé ou un code imparfait.&lt;br&gt;
 Et grâce à ce réglage aux confins du visible,&lt;br&gt;
 J’ai rendu le vivant dans la feuille lisible.&lt;/p&gt;
-&lt;p&gt;Là où bat notre cœur cent fois dans un moment,&lt;br&gt;
+&lt;p&gt;Là où bat notre coeur mil fois dans un moment,&lt;br&gt;
 L’arbre pulse une fois, lentement, patiemment.&lt;br&gt;
 Alors il faut des yeux qui prennent le silence,&lt;br&gt;
 Des outils accordés à la lente cadence.&lt;br&gt;
@@ -293,7 +294,7 @@ De refaire cent fois ce qu’il croit maîtriser.&lt;br&gt;
 Non pas pour imposer des lois à la nature,&lt;br&gt;
 Mais pour en épouser l’infime architecture.&lt;br&gt;
 Dans une image instable, une donnée bizarre,&lt;br&gt;
-Se ca che une réponse, à ce fameux hasard.&lt;br&gt;
+Se cache une réponse, à ce fameux hasard.&lt;br&gt;
 Et ce désordre, un jour, devient cartographie,&lt;br&gt;
 Un tracé du vivant, une forme, une vie.&lt;/p&gt;
 &lt;p&gt;Car il faut bien du temps pour qu’un sens apparaisse,&lt;br&gt;
@@ -310,6 +311,15 @@ Je crois bien qu’il s’agit du métier de chercheur&lt;br&gt;
 Qui accepte de prendre un temps pour les erreurs.&lt;br&gt;
 Ou celui d’écrivain qui, pesant chaque mot,&lt;br&gt;
 Façonne un doux récit pour en livrer l’écho.&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/hFzlr7nnvw&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
 </description>
         </item>
         
