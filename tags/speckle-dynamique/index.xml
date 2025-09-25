@@ -12,7 +12,10 @@
         <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
         
         <guid>https://elisecolin.github.io/posts/feuille/</guid>
-        <description>&lt;img src="https://elisecolin.github.io/images/feuille.png" alt="Featured image of post Speckle dynamique pour la feuille en poésie" /&gt;&lt;!-- raw HTML omitted --&gt;
+        <description>&lt;img src="https://elisecolin.github.io/images/feuille.png" alt="Featured image of post Speckle dynamique pour la feuille en poésie" /&gt;&lt;p style=&#34;font-size:0.9em; font-style:italic; color:gray; margin-bottom:0.5em;&#34;&gt;
+Ce poème a été écrit à l&#39;occasion d&#39;un séminaire donné au LUMEN (Médiathèque de l&#39;Université Paris Saclay) le 18 septembre 2025, dans le cadre des évènements
+&#34;Sciences à la Coque&#34;. Il s&#39;agit d&#39;une tentative d&#39;exposé scientifique réalisé entièrement en alexandrins.
+&lt;/p&gt;
 &lt;p&gt;Bonjour à tous, merci, de venir m’écouter,&lt;br&gt;
 J’espère éveiller l’âme, et la curiosité&lt;br&gt;
 Je vous livre aujourd&amp;rsquo;hui un étrange exposé&lt;br&gt;
@@ -313,7 +316,7 @@ Ou celui d’écrivain qui, pesant chaque mot,&lt;br&gt;
 Façonne un doux récit pour en livrer l’écho.&lt;/p&gt;
 &lt;div class=&#34;video-wrapper&#34;&gt;
     &lt;iframe loading=&#34;lazy&#34; 
-            src=&#34;https://www.youtube.com/embed/hFzlr7nnvw&#34; 
+            src=&#34;https://www.youtube.com/embed/_hFzlr7nnvw&#34; 
             allowfullscreen 
             title=&#34;YouTube Video&#34;
     &gt;
