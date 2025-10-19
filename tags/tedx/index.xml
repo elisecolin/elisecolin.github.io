@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>TedX on Elise Colin </title>
-        <link>https://elisecolin.github.io/tags/tedx/</link>
+        <link>http://localhost:1313/tags/tedx/</link>
         <description>Recent content in TedX on Elise Colin </description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr</language>
-        <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://elisecolin.github.io/tags/tedx/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/tedx/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Les Princes de Serendip</title>
-        <link>https://elisecolin.github.io/posts/serendipite/</link>
+        <link>http://localhost:1313/posts/serendipite/</link>
         <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://elisecolin.github.io/posts/serendipite/</guid>
-        <description>&lt;img src="https://elisecolin.github.io/images/serendipite.jpg" alt="Featured image of post Les Princes de Serendip" /&gt;&lt;p&gt;🪶&lt;/p&gt;
+        <guid>http://localhost:1313/posts/serendipite/</guid>
+        <description>&lt;img src="http://localhost:1313/images/serendipite.jpg" alt="Featured image of post Les Princes de Serendip" /&gt;&lt;p&gt;🪶&lt;/p&gt;
 &lt;p style=&#34;font-size:0.9em; font-style:italic; color:gray; margin-bottom:0.5em;&#34;&gt;
 Ce poème a été écrit à l’occasion de l’intervention de Sylvain Allemand, consacrée à l’origine du mot « sérendipité », 
 donnée au cours de la conférence TEDx Paris-Saclay du 28 juin 2025.  

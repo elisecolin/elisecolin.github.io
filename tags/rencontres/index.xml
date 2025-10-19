@@ -2,17 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Rencontres on Elise Colin </title>
-        <link>https://elisecolin.github.io/tags/rencontres/</link>
+        <link>http://localhost:1313/tags/rencontres/</link>
         <description>Recent content in Rencontres on Elise Colin </description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr</language>
-        <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://elisecolin.github.io/tags/rencontres/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 19 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/rencontres/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>181</title>
+        <link>http://localhost:1313/posts/181/</link>
+        <pubDate>Sun, 19 Oct 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/181/</guid>
+        <description>&lt;img src="http://localhost:1313/images/181.jpg" alt="Featured image of post 181" /&gt;&lt;p&gt;🪶&lt;/p&gt;
+&lt;p style=&#34;font-size:0.9em; font-style:italic; color:gray; margin-bottom:0.5em;&#34;&gt;
+Ce poème a été écrit à l’occasion du mouvement de poétique urbaine, une exposition réunissant un collectif d&#39;artistes, 
+habité par Jérôme Michaud, à l&#39;espace 181. (Galerie d&#39;Art du 181 rue de Paris). 
+L&#39;idée de l&#39;infini renversé est celle de Jérôme.    
+&lt;/p&gt;
+&lt;p&gt;Tu es nombre premier, pur refus des produits,&lt;br&gt;
+la division du sens, le facteur qui séduit.&lt;br&gt;
+Loin d’un isolement, ton rythme s’enracine ;&lt;br&gt;
+Tes boucles enlacées respirent et fascinent.&lt;/p&gt;
+&lt;p&gt;Ta symétrie s’incarne en symétrie axiale,&lt;br&gt;
+miroir et rotation en symétrie centrale,&lt;br&gt;
+Vertige et équilibre, édifient le regard,&lt;br&gt;
+Et dans ton harmonie, notre pensée s’égard.&lt;/p&gt;
+&lt;p&gt;Selon un changement de regard ou de prisme,&lt;br&gt;
+Le sens se réinvente au gré de ton charisme : &lt;br&gt;
+Entre tes deux miroirs, le silence se dresse&lt;/p&gt;
+&lt;p&gt;Si le regard s’incline : infini absolu,&lt;br&gt;
+et voilà qu’en ton sein la lecture évolue,&lt;br&gt;
+Evoquant dans le cœur le cercle et son inverse.&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>À la terrasse Discovery – Échos d’en haut</title>
-        <link>https://elisecolin.github.io/posts/terrasse/</link>
+        <link>http://localhost:1313/posts/terrasse/</link>
         <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://elisecolin.github.io/posts/terrasse/</guid>
-        <description>&lt;img src="https://elisecolin.github.io/images/terrasse.jpg" alt="Featured image of post À la terrasse Discovery – Échos d’en haut" /&gt;&lt;p&gt;🪶&lt;/p&gt;
+        <guid>http://localhost:1313/posts/terrasse/</guid>
+        <description>&lt;img src="http://localhost:1313/images/terrasse.jpg" alt="Featured image of post À la terrasse Discovery – Échos d’en haut" /&gt;&lt;p&gt;🪶&lt;/p&gt;
 &lt;p style=&#34;font-size:0.9em; font-style:italic; color:gray; margin-bottom:0.5em;&#34;&gt;
 Ce poème a été écrit à l’occasion de la présentation de mon livre &lt;em&gt;Échos d’en haut&lt;/em&gt;, 
 à la Terrasse Discovery, sur le Plateau de Saclay, en juin 2025.  

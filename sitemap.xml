@@ -2,58 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://elisecolin.github.io/categories/</loc>
+    <loc>http://localhost:1313/posts/181/</loc>
+    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/math%C3%A9matiques/</loc>
+    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/po%C3%A8me/</loc>
+    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/po%C3%A9tique-urbaine/</loc>
+    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rencontres/</loc>
+    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/col%C3%A8re/</loc>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/elegance/</loc>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%C3%A9l%C3%A9gance/</loc>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/recherche/</loc>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/feuille/</loc>
     <lastmod>2025-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://elisecolin.github.io/</loc>
+    <loc>http://localhost:1313/tags/s%C3%A8ve/</loc>
     <lastmod>2025-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://elisecolin.github.io/tags/feuille/</loc>
+    <loc>http://localhost:1313/tags/speckle-dynamique/</loc>
     <lastmod>2025-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://elisecolin.github.io/categories/po%C3%A8me/</loc>
+    <loc>http://localhost:1313/posts/feuille/</loc>
     <lastmod>2025-09-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://elisecolin.github.io/posts/</loc>
-    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://elisecolin.github.io/tags/s%C3%A8ve/</loc>
-    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://elisecolin.github.io/tags/speckle-dynamique/</loc>
-    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://elisecolin.github.io/posts/feuille/</loc>
-    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://elisecolin.github.io/tags/</loc>
-    <lastmod>2025-09-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://elisecolin.github.io/tags/chercheur/</loc>
+    <loc>http://localhost:1313/tags/chercheur/</loc>
     <lastmod>2025-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://elisecolin.github.io/posts/poeme/</loc>
+    <loc>http://localhost:1313/posts/poeme/</loc>
     <lastmod>2025-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://elisecolin.github.io/tags/pouvoir/</loc>
+    <loc>http://localhost:1313/tags/pouvoir/</loc>
     <lastmod>2025-08-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://elisecolin.github.io/posts/terrasse/</loc>
+    <loc>http://localhost:1313/posts/terrasse/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://elisecolin.github.io/tags/innovation/</loc>
+    <loc>http://localhost:1313/tags/innovation/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://elisecolin.github.io/posts/serendipite/</loc>
+    <loc>http://localhost:1313/posts/serendipite/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://elisecolin.github.io/tags/rencontres/</loc>
+    <loc>http://localhost:1313/tags/serendipit%C3%A9/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://elisecolin.github.io/tags/serendipit%C3%A9/</loc>
-    <lastmod>2025-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://elisecolin.github.io/tags/tedx/</loc>
+    <loc>http://localhost:1313/tags/tedx/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url>
 </urlset>

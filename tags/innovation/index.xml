@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Innovation on Elise Colin </title>
-        <link>https://elisecolin.github.io/tags/innovation/</link>
+        <link>http://localhost:1313/tags/innovation/</link>
         <description>Recent content in Innovation on Elise Colin </description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr</language>
-        <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://elisecolin.github.io/tags/innovation/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 28 Jun 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/innovation/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>À la terrasse Discovery – Échos d’en haut</title>
-        <link>https://elisecolin.github.io/posts/terrasse/</link>
+        <link>http://localhost:1313/posts/terrasse/</link>
         <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
         
-        <guid>https://elisecolin.github.io/posts/terrasse/</guid>
-        <description>&lt;img src="https://elisecolin.github.io/images/terrasse.jpg" alt="Featured image of post À la terrasse Discovery – Échos d’en haut" /&gt;&lt;p&gt;🪶&lt;/p&gt;
+        <guid>http://localhost:1313/posts/terrasse/</guid>
+        <description>&lt;img src="http://localhost:1313/images/terrasse.jpg" alt="Featured image of post À la terrasse Discovery – Échos d’en haut" /&gt;&lt;p&gt;🪶&lt;/p&gt;
 &lt;p style=&#34;font-size:0.9em; font-style:italic; color:gray; margin-bottom:0.5em;&#34;&gt;
 Ce poème a été écrit à l’occasion de la présentation de mon livre &lt;em&gt;Échos d’en haut&lt;/em&gt;, 
 à la Terrasse Discovery, sur le Plateau de Saclay, en juin 2025.  
