@@ -76,5 +76,20 @@
   </url><url>
     <loc>http://localhost:1313/tags/tedx/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/louise/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/femmes/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/souvenirs/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/texte/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/violence/</loc>
+    <lastmod>2024-02-28T00:00:00+00:00</lastmod>
   </url>
 </urlset>
