@@ -15,6 +15,14 @@
         <description></description>
         </item>
         <item>
+        <title>Voyage</title>
+        <link>http://localhost:1313/categories/voyage/</link>
+        <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/categories/voyage/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Texte</title>
         <link>http://localhost:1313/categories/texte/</link>
         <pubDate>Wed, 28 Feb 2024 00:00:00 +0000</pubDate>
