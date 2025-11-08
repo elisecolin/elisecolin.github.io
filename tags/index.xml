@@ -79,6 +79,22 @@
         <description></description>
         </item>
         <item>
+        <title>Destination</title>
+        <link>http://localhost:1313/tags/destination/</link>
+        <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/destination/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Voyage</title>
+        <link>http://localhost:1313/tags/voyage/</link>
+        <pubDate>Sun, 28 Sep 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/tags/voyage/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Chercheur</title>
         <link>http://localhost:1313/tags/chercheur/</link>
         <pubDate>Fri, 22 Aug 2025 00:00:00 +0000</pubDate>
@@ -116,22 +132,6 @@
         <pubDate>Sat, 28 Jun 2025 00:00:00 +0000</pubDate>
         
         <guid>http://localhost:1313/tags/tedx/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Destination</title>
-        <link>http://localhost:1313/tags/destination/</link>
-        <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/destination/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Voyage</title>
-        <link>http://localhost:1313/tags/voyage/</link>
-        <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
-        
-        <guid>http://localhost:1313/tags/voyage/</guid>
         <description></description>
         </item>
         <item>

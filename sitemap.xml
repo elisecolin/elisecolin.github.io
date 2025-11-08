@@ -53,6 +53,18 @@
     <loc>http://localhost:1313/tags/recherche/</loc>
     <lastmod>2025-10-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/destination/</loc>
+    <lastmod>2025-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/thessalonique/</loc>
+    <lastmod>2025-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/voyage/</loc>
+    <lastmod>2025-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/voyage/</loc>
+    <lastmod>2025-09-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/feuille/</loc>
     <lastmod>2025-09-22T00:00:00+00:00</lastmod>
   </url><url>
@@ -80,16 +92,7 @@
     <loc>http://localhost:1313/tags/tedx/</loc>
     <lastmod>2025-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/destination/</loc>
-    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/frascati/</loc>
-    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/voyage/</loc>
-    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/voyage/</loc>
     <lastmod>2024-12-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/louise/</loc>
