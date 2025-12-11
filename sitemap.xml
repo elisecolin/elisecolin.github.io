@@ -59,6 +59,12 @@
     <loc>http://localhost:1313/tags/rencontres/</loc>
     <lastmod>2025-10-19T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/bullshit/</loc>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/bullshit/</loc>
+    <lastmod>2025-10-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/col%C3%A8re/</loc>
     <lastmod>2025-10-16T00:00:00+00:00</lastmod>
   </url><url>
