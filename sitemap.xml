@@ -2,13 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/po%C3%A8me/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/rencontres/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tango/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vanit%C3%A9/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/tango/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/bullshit/</loc>
     <lastmod>2025-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/bullshit/</loc>
-    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2025-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/col%C3%A8re/</loc>
@@ -17,19 +41,7 @@
     <loc>http://localhost:1313/tags/%C3%A9l%C3%A9gance/</loc>
     <lastmod>2025-12-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/po%C3%A8me/</loc>
-    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/recherche/</loc>
-    <lastmod>2025-12-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2025-12-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/faim/</loc>
@@ -69,9 +81,6 @@
     <lastmod>2025-10-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/po%C3%A9tique-urbaine/</loc>
-    <lastmod>2025-10-19T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/rencontres/</loc>
     <lastmod>2025-10-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/elegance/</loc>
