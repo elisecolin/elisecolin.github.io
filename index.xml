@@ -6,7 +6,246 @@
         <description>Recent content on Elise Colin </description>
         <generator>Hugo -- gohugo.io</generator>
         <language>fr</language>
-        <lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 12 Mar 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Journées d&#39;Imagerie d&#39;Optique Non Conventionnelle</title>
+        <link>http://localhost:1313/posts/jionc/</link>
+        <pubDate>Thu, 12 Mar 2026 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/posts/jionc/</guid>
+        <description>&lt;img src="http://localhost:1313/images/jionc.png" alt="Featured image of post Journées d&#39;Imagerie d&#39;Optique Non Conventionnelle" /&gt;&lt;p style=&#34;font-size:0.9em; font-style:italic; color:gray; margin-bottom:0.5em;&#34;&gt;
+Le 13 mars 2026 se sont tenues les Journées d&#39;Optiques Non Conventionnelles (JIONC). 
+Dans l&#39;esprit de ces rencontres où l&#39;on aime sortir des sentiers battus, j&#39;y ai présenté un exposé… rédigé entièrement en alexandrins.
+Après tout, si l&#39;optique y est non conventionnelle, pourquoi la forme de l&#39;exposé ne le serait-elle pas aussi ? 
+Voici donc le texte de cette présentation, tel qu&#39;il a été dit — en vers. 
+&lt;/p&gt;
+&lt;p&gt;Bonjour à tous, merci, de venir m&amp;rsquo;écouter,&lt;br&gt;
+J&amp;rsquo;espère éveiller l&amp;rsquo;âme, et la curiosité.  &lt;br&gt;
+Auparavant merci à mes quatre acolytes&lt;br&gt;
+Pour m&amp;rsquo;avoir épaulée dans ce talk insolite.&lt;br&gt;
+Je vous présente ici l&amp;rsquo;expérimentation &lt;br&gt;
+Menée pour obtenir la classification&lt;br&gt;
+Du speckle dynamique en différents régimes&lt;br&gt;
+D&amp;rsquo;hypothèses prêtées au flux que l&amp;rsquo;on estime.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;étudie des technos un peu particulières &lt;br&gt;
+J&amp;rsquo;observe la matière avec une lumière&lt;br&gt;
+Que l&amp;rsquo;on dit cohérente, à savoir ordonnée   &lt;br&gt;
+Sa position, son front, sont bien déterminés.  &lt;br&gt;
+Lorsque cette lumière atteint une surface,&lt;br&gt;
+Elle est rediffusée en mille et une places,&lt;br&gt;
+Chaque grain, chaque creux, diffuse à sa manière   &lt;br&gt;
+Un fragment du rayon qui frappe la matière.&lt;br&gt;
+Les différents retours du champ ainsi produits&lt;br&gt;
+interfèrent alors pour créer comme un bruit&lt;br&gt;
+Un ensemble de grains, dispersés, noirs et blancs&lt;br&gt;
+Que l&amp;rsquo;on appelle ici motif de chatoiement.&lt;br&gt;
+En anglais du speckle, un sujet captivant.&lt;br&gt;
+Le cœur de ma recherche, et ce depuis longtemps.&lt;/p&gt;
+&lt;p&gt;Quand les constituants se prennent à vibrer,  &lt;br&gt;
+L&amp;rsquo;allure des motifs aussitôt va varier. &lt;br&gt;
+Chaque grain évolue plus ou moins lentement, &lt;br&gt;
+Révélant dans l&amp;rsquo;image un léger mouvement. &lt;br&gt;
+Ce domaine devient le « speckle dynamique »&lt;br&gt;
+Une technologie prometteuse et unique.&lt;/p&gt;
+&lt;p&gt;Le speckle, compagnon des sciences du vivant,&lt;br&gt;
+Fut d&amp;rsquo;abord étudié pour observer le sang.&lt;br&gt;
+Laissez-moi vous conter comment l&amp;rsquo;image naît :&lt;br&gt;
+Le principe est facile et chacun le connaît.&lt;br&gt;
+A l&amp;rsquo;aide d&amp;rsquo;un laser, on éclaire la peau&lt;br&gt;
+On enregistre alors l&amp;rsquo;ensemble des échos&lt;br&gt;
+En quelque court instant, le signal est filmé&lt;br&gt;
+Par une caméra en séquence animée.&lt;/p&gt;
+&lt;p&gt;La lumière laser est toujours cohérente&lt;br&gt;
+Si par elle on observe une zone vivante&lt;br&gt;
+Pendant qu&amp;rsquo;on enregistre en retour une image  &lt;br&gt;
+Les grains de chatoiement ne demeurent pas sages.   &lt;br&gt;
+Pendant ce qu&amp;rsquo;on appelle un temps d&amp;rsquo;exposition &lt;br&gt;
+Le sang d&amp;rsquo;un capillaire est en circulation. &lt;br&gt;
+Tout se passe comme si, pendant ce temps donné&lt;br&gt;
+On moyennait l&amp;rsquo;ensemble des intensités.   &lt;br&gt;
+Même si c&amp;rsquo;est très court, le signal résultant&lt;br&gt;
+Sera comme un peu flou parce qu&amp;rsquo;il est mouvant.&lt;/p&gt;
+&lt;p&gt;Si la vitesse est faible, alors l&amp;rsquo;effet est doux.&lt;br&gt;
+Plus la vitesse est grande, et plus grand est le flou.&lt;/p&gt;
+&lt;p&gt;A partir du signal, ainsi nous calculons&lt;br&gt;
+Un seul coefficient qui répond au doux nom&lt;br&gt;
+évocateur :  coefficient de variation.&lt;br&gt;
+En optique on préfère une autre appellation&lt;br&gt;
+Contraste de speckle et c&amp;rsquo;est la même chose&lt;br&gt;
+En laser ou radar, c&amp;rsquo;est bien la même cause.&lt;/p&gt;
+&lt;p&gt;Mathématiquement ce contraste s&amp;rsquo;écrit&lt;br&gt;
+Écart-type sur moyenne pour la série.&lt;br&gt;
+On enregistre donc une séquence entière&lt;br&gt;
+d&amp;rsquo;images de speckle avec cette lumière.&lt;br&gt;
+Et en chaque pixel de l&amp;rsquo;image on calcule&lt;br&gt;
+De si simple façon que c&amp;rsquo;en est ridicule&lt;br&gt;
+Ce paramètre-là, inversement lié&lt;br&gt;
+A la rapidité ou taux d&amp;rsquo;activité.&lt;/p&gt;
+&lt;p&gt;Le flou reste léger pour un mouvement lent&lt;br&gt;
+Et donc dans ce cas-là notre contraste est grand &lt;br&gt;
+Mais plus on accélère et plus le flou grandit.&lt;br&gt;
+Et plus, inversement, le contraste est petit.&lt;br&gt;
+Une démonstration vaut mieux qu&amp;rsquo;un long discours.&lt;br&gt;
+Voici donc un exemple auquel j&amp;rsquo;aurai recours :&lt;br&gt;
+Le contraste inversé révèle un paysage,&lt;br&gt;
+Celui de la circulation sous la peau du visage.&lt;br&gt;
+On distingue aisément, dans ce flux calculé,&lt;br&gt;
+Les réseaux de vaisseaux finement révélés.&lt;/p&gt;
+&lt;p&gt;Plus récemment encore, nous avons essayé&lt;br&gt;
+Cette technologie déjà bien déblayée&lt;br&gt;
+Pour observer la feuille et sa respiration,&lt;br&gt;
+En imageant la sève et sa circulation.&lt;br&gt;
+Nous avons donc tenté cette transposition :&lt;br&gt;
+Par laser, une feuille, en illumination.&lt;br&gt;
+Par rapport à du sang, la sève est bien plus lente&lt;br&gt;
+J&amp;rsquo;exposais plus longtemps, je sais être patiente.&lt;/p&gt;
+&lt;p&gt;Nous avons donc filmé, patients, cent fois, sans bruit,&lt;br&gt;
+Et scruté le speckle, jour après jour, ou nuit.
+Mais la plupart du temps, malgré l&amp;rsquo;acharnement&lt;br&gt;
+Le contraste obtenu n&amp;rsquo;était pas ravissant.&lt;/p&gt;
+&lt;p&gt;Dans le meilleur des cas, j&amp;rsquo;obtenais ce signal&lt;br&gt;
+Qui était à l&amp;rsquo;envers !! Ce n&amp;rsquo;était pas normal !&lt;br&gt;
+Mais où était l&amp;rsquo;erreur ? Un capteur mal réglé ?&lt;br&gt;
+Ou dans ce végétal que l&amp;rsquo;on avait sondé ?&lt;/p&gt;
+&lt;p&gt;Mais non ! Auparavant, si on se souvient bien&lt;br&gt;
+Chaque image de sang était sans aucun lien&lt;br&gt;
+Avec la précédente : aucune ressemblance&lt;br&gt;
+Pas de corrélation, mais une renaissance.&lt;br&gt;
+Dans chaque acquisition, un motif différent,&lt;br&gt;
+Aucun fil conducteur, aucun lien évident.&lt;br&gt;
+Nous considérions donc la décorrélation,&lt;br&gt;
+de manière implicite pour chaque acquisition&lt;br&gt;
+Et dès lors, nous pouvions sans détour calculer&lt;br&gt;
+De façon temporelle un contraste estimé.&lt;/p&gt;
+&lt;p&gt;Mais ici, tout changeait dans nos observations :&lt;br&gt;
+Les motifs restaient là, figés en position.&lt;br&gt;
+Et d&amp;rsquo;une image à l&amp;rsquo;autre, un pas presque invisible&lt;br&gt;
+Était tout le signal que l&amp;rsquo;on rendait lisible.&lt;/p&gt;
+&lt;p&gt;Mais plus troublante encore évolue la métrique&lt;br&gt;
+dès que l&amp;rsquo;on considère un cas vraiment statique&lt;/p&gt;
+&lt;p&gt;Ici chaque motif est purement le même&lt;br&gt;
+Que son prédécesseur, du premier au n-ième
+L&amp;rsquo;écart type estimé est parfaitement nul.&lt;br&gt;
+Ainsi que le contraste après un bref calcul !&lt;/p&gt;
+&lt;p&gt;Alors même qu&amp;rsquo;on sait, dans le cas ergodique&lt;br&gt;
+Que le contraste baisse avec la dynamique.&lt;br&gt;
+Et entre ces deux cas, que va-t-il se passer ?&lt;br&gt;
+La courbe de contraste devrait s&amp;rsquo;inverser !&lt;/p&gt;
+&lt;p&gt;Dans tous les cas, la courbe n&amp;rsquo;est pas monotone&lt;br&gt;
+Et c&amp;rsquo;est sur ce constat qu&amp;rsquo;ensemble on se questionne&lt;br&gt;
+Nous n&amp;rsquo;avons pas trouvé dans la littérature&lt;br&gt;
+De modèle ou mesure illustrant cette allure.&lt;/p&gt;
+&lt;p&gt;Pour répondre à ce manque de compréhension,&lt;br&gt;
+Nous avons employé un disque en rotation.&lt;/p&gt;
+&lt;p&gt;Sur notre banc optique, une source laser&lt;br&gt;
+Éclaire en cohérence un diffus circulaire&lt;br&gt;
+Placé sur un moteur finement contrôlé&lt;br&gt;
+L&amp;rsquo;échantillon choisi a été fignolé&lt;br&gt;
+Pour correspondre à la diffusion surfacique&lt;br&gt;
+Dans son comportement en régime statique.&lt;/p&gt;
+&lt;p&gt;Le mouvement de rotation est converti&lt;br&gt;
+En translation locale en coupant par partie&lt;br&gt;
+Notre disque en anneaux d&amp;rsquo;épaisseur 20 pixels&lt;br&gt;
+Pour accéder ainsi à diverses échelles&lt;br&gt;
+De gamme de vitesse en variant le rayon&lt;br&gt;
+Ou avec le moteur l&amp;rsquo;ampleur de rotation&lt;/p&gt;
+&lt;p&gt;Pour notre caméra à chaque acquisition&lt;br&gt;
+Nous avons maintenu le temps d&amp;rsquo;exposition&lt;br&gt;
+Ainsi que la cadence de répétition&lt;br&gt;
+Et acquis pour série 200 frames de long&lt;/p&gt;
+&lt;p&gt;Une fois bouts à bouts tous ces points de mesure&lt;br&gt;
+Forment le résultat montré sur la figure. &lt;br&gt;
+La courbe de contraste exhibe l&amp;rsquo;inversion&lt;br&gt;
+Que prédisait déjà notre simulation.&lt;/p&gt;
+&lt;p&gt;Grâce au disque tournant, et nos tests rigoureux,&lt;br&gt;
+Nous avons confirmé ce fait un peu curieux.&lt;br&gt;
+Ce résultat, nouveau pour la communauté,&lt;br&gt;
+Nous l&amp;rsquo;avons entre nous, joyeusement nommé :&lt;br&gt;
+“La courbe de la bosse”, en labo révélée,&lt;br&gt;
+Un renversement clair, en pratique observé.&lt;/p&gt;
+&lt;p&gt;Dans ces comportements, on peut voir 3 régimes&lt;/p&gt;
+&lt;p&gt;Une première zone à l&amp;rsquo;extension minime&lt;br&gt;
+Chacun de nos speckle y est capté gelé&lt;br&gt;
+Deux speckle successifs sont alors corrélés&lt;br&gt;
+Et le contraste croît avec la rotation&lt;br&gt;
+Ou la rapidité de décorrélation.&lt;/p&gt;
+&lt;p&gt;Dans le dernier régime on retrouve à nouveau&lt;br&gt;
+La zone bien connue pour bien voir nos vaisseaux&lt;br&gt;
+L&amp;rsquo;ensemble des speckle est bien décorrélé&lt;br&gt;
+Le contraste décroît en racine carrée.&lt;/p&gt;
+&lt;p&gt;Au milieu de tout ca, un domaine nouveau&lt;br&gt;
+Que l&amp;rsquo;on peut qualifier de régime « chaos »&lt;br&gt;
+On ne peut plus avoir chaque speckle gelé&lt;br&gt;
+Cependant ils ne sont pas tous décorrélés.&lt;/p&gt;
+&lt;p&gt;Ce constat scientifique a de grands intérêts,&lt;br&gt;
+Il guide nos futurs et nos prochains projets.&lt;br&gt;
+Il nous permet enfin de savoir avec soin, &lt;br&gt;
+Comment dimensionner vis-à-vis d&amp;rsquo;un besoin.&lt;br&gt;
+Pour chaque mouvement, et sa vélocité,&lt;br&gt;
+Il faut savoir choisir comment paramétrer.&lt;/p&gt;
+&lt;p&gt;Pour un flux élevé, speckle décorrélés&lt;br&gt;
+Le temps d&amp;rsquo;exposition est notre facteur clé.&lt;/p&gt;
+&lt;p&gt;Si le flux est trop lent et le temps nous est cher, &lt;br&gt;
+Le premier des régimes est celui qu&amp;rsquo;on préfère.&lt;/p&gt;
+&lt;p&gt;Ici, le point crucial, pour voir la dynamique &lt;br&gt;
+Est celui d&amp;rsquo;adapter la cadence rythmique.&lt;/p&gt;
+&lt;p&gt;La clé pour l&amp;rsquo;observer ? Figer le chatoiement, &lt;br&gt;
+Pendant l&amp;rsquo;exposition, puis attendre longtemps&lt;br&gt;
+Pour observer nos grains dans un lent glissement&lt;br&gt;
+léger mais perceptible entre deux des instants.&lt;/p&gt;
+&lt;p&gt;Nous comprenons aussi, qu&amp;rsquo;il faut à tout moment, &lt;br&gt;
+Fuir cette transition pour chaque mouvement. &lt;br&gt;
+Car l&amp;rsquo;inverser devient un défi impossible, &lt;br&gt;
+Et la mesure ici devient inaccessible.&lt;/p&gt;
+&lt;p&gt;C&amp;rsquo;est grâce à ce constat que l&amp;rsquo;on a pu figer, &lt;br&gt;
+La sève de la feuille et son trajet léger.&lt;br&gt;
+Nous avons vérifié qu&amp;rsquo;en variant la cadence&lt;br&gt;
+Le signal révélait différentes tendances.&lt;/p&gt;
+&lt;p&gt;Voyez donc à 100 Hz la sève qu&amp;rsquo;on devine&lt;br&gt;
+puis quand on ralentit l&amp;rsquo;image se raffine&lt;br&gt;
+A 1Hz les détails s&amp;rsquo;enrichissent encore&lt;br&gt;
+Et bien plus lentement la finesse s&amp;rsquo;explore.&lt;/p&gt;
+&lt;p&gt;Depuis, nous progressons dans nos vraies perceptions,&lt;br&gt;
+Des flux de sève en cours et des circulations.&lt;br&gt;
+Nous poursuivons ainsi d&amp;rsquo;importantes mesures,&lt;br&gt;
+Sur d&amp;rsquo;autres végétaux pour de l&amp;rsquo;agriculture.&lt;/p&gt;
+&lt;p&gt;Il nous reste à présent à poursuivre l&amp;rsquo;étude, &lt;br&gt;
+Et à lever, demain, quelques incertitudes.&lt;br&gt;
+Comment la courbe change avec sa transition, &lt;br&gt;
+Lorsqu&amp;rsquo;augmente le taux de multidiffusions ? &lt;br&gt;
+Si notre acquisition est polarimétrique&lt;br&gt;
+Que devient un signal diffusant volumique&lt;br&gt;
+Et comment se comporte un autre index utile&lt;br&gt;
+L&amp;rsquo;indice de Fujii, contraste du profil ?&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;espère avoir gardé en partie l&amp;rsquo;attention&lt;br&gt;
+De mon cher auditoire. Voici ma conclusion.&lt;br&gt;
+Rimer sur du speckle est peut-être futile. &lt;br&gt;
+Pourtant, c&amp;rsquo;est bien plus beau lorsque c&amp;rsquo;est inutile !&lt;br&gt;
+Le chercheur aguerri sait sortir des modèles,&lt;br&gt;
+Quand leurs cadres trop sûrs deviennent trop formels&lt;br&gt;
+Car comprendre le monde exige aussi d&amp;rsquo;oser&lt;br&gt;
+Quelques détours parfois afin de mieux creuser.&lt;/p&gt;
+&lt;p&gt;Alors, pourquoi parler comme on parle toujours,&lt;br&gt;
+Quand partager requiert parfois d&amp;rsquo;autres détours ?&lt;/p&gt;
+&lt;p&gt;Et souvent l&amp;rsquo;on craindra perdre de longues heures,&lt;br&gt;
+Comme l&amp;rsquo;artiste au seuil de l&amp;rsquo;art et sa lenteur. &lt;br&gt;
+Mais ces détours patients, ces chemins incertains,&lt;br&gt;
+Sont le prix du regard qui va comprendre enfin, &lt;br&gt;
+Ou peut-être comprendre un peu mieux seulement,&lt;br&gt;
+Car la science s&amp;rsquo;écrit au-delà d&amp;rsquo;un moment.&lt;/p&gt;
+&lt;p&gt;Le doute éclairant mieux que mille affirmations,&lt;br&gt;
+J&amp;rsquo;achève mon propos et attends vos questions !&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/7PYjeIQ-Lmc&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
         <title>Ljubljana, ou l’étrange douceur des consonnes  </title>
         <link>http://localhost:1313/posts/ljubljana/</link>
         <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
